@@ -1,0 +1,1 @@
+- The folder contains the SQL queries used to analyze the Superstore dataset.
