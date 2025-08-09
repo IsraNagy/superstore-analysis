@@ -15,8 +15,7 @@ Worksheets for individual visualizations.
 The assembled dashboard layout.
 
 📊 **Dashboard Link**
-You can view the interactive version of the dashboard on Tableau Public here:
-🔗 Superstore Sales Dashboard
+You can view the interactive version of the dashboard on Tableau Public here: https://public.tableau.com/shared/TQCSZKSC2?:display_count=n&:origin=viz_share_link
 
 🛠 **How to Use**
 For Screenshot Preview:
