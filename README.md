@@ -1,4 +1,5 @@
 📊 Sales Data Analysis & Insights Project # superstore-analysis
+
 This project delivers end-to-end retail sales analysis using Excel, SQL, and Tableau. It covers data cleaning, transformation, analysis, and visualization to uncover key business insights.
 
 🔍 Overview
